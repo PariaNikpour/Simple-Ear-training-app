@@ -8,8 +8,8 @@ score = 0
 def name_the_note():
     global score
     random_note = random.choice(notes_list)
-    file_path = f'enteryourpath{random_note}.wav' #->#wherever you have the notes wavs
-    
+    #file_path = 'path.random_note'
+    #uncomment the line above , and write down the path to where you have put the notes wavs.now for actually access each note you should write down the wav file's name but replace the part (a,b,c, ...) with random_note
     pygame.mixer.music.load(file_path)
     while True :
 
