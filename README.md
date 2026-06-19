@@ -76,4 +76,5 @@ python main.py
 - graphical user interface
 - additional ear training exercises
 
-
+## author 
+developed by Paria Nikpour
