@@ -67,7 +67,7 @@ pip install pygame
 ## running the game
 run the following command inside the project folder:
 
-python main.py
+python EarTrainigApp.py
 
 
 
